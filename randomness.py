@@ -2,7 +2,7 @@
 # File  : randomness.py
 # Author: Lyndon Hill
 
-""" Example to test how random Python random module's PRNG is."""
+""" Example to compare how random Python random module's PRNG is to numpy's."""
 
 import random
 import numpy as np
